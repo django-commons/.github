@@ -26,4 +26,6 @@ possible with your help:
 
 ## How to transfer a project out?
 
+1. Create a [transfer project out issue in the django-community/membership repository](https://github.com/django-community/membership/issues/new/choose).
+
 ## FAQ
