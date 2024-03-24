@@ -17,7 +17,7 @@ possible with your help:
 ## How to join as a contributor?
 
 1. Review [Code of Conduct](https://github.com/django-community/membership/blob/main/CODE_OF_CONDUCT.md) 
-2. Create a [new member issue in the django-community/membership repository](https://github.com/django-community/membership/issues/new).
+2. Create a [new member issue in the django-community/membership repository](https://github.com/django-community/membership/issues/new/choose).
 
 ## How to transfer a project in?
 
