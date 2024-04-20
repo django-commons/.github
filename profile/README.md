@@ -29,3 +29,10 @@ possible with your help:
 1. Create a [transfer project out issue in the django-commons/membership repository](https://github.com/django-commons/membership/issues/new/choose).
 
 ## FAQ
+
+
+## Credits
+
+### Logo
+
+Vectors and icons by [Raisul Hadi](https://dribbble.com/Broc_Simp?ref=svgrepo.com) in CC Attribution License via [SVG Repo](https://www.svgrepo.com/)
