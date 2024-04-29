@@ -14,6 +14,8 @@ possible with your help:
 - Normalize and support maintainers periodically stepping back
 - Support and encourage new contributors to step up
 
+## More information
+
 - [How to join as a contributor?](https://github.com/django-commons/membership/blob/main/README.md#how-to-join-as-a-contributor)
 - [How to transfer a project in?](https://github.com/django-commons/membership/blob/main/README.md#how-to-transfer-a-project-in)
 - [How to transfer a project out?](https://github.com/django-commons/membership/blob/main/README.md#how-to-transfer-a-project-out)
