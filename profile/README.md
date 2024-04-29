@@ -14,22 +14,10 @@ possible with your help:
 - Normalize and support maintainers periodically stepping back
 - Support and encourage new contributors to step up
 
-## How to join as a contributor?
-
-1. Review [Code of Conduct](https://github.com/django-commons/membership/blob/main/CODE_OF_CONDUCT.md) 
-2. Create a [new member issue in the django-commons/membership repository](https://github.com/django-commons/membership/issues/new/choose).
-
-## How to transfer a project in?
-
-1. A person with the ability to transfer the project must join Django Commons (see [How to join as a contributor?](https://github.com/django-commons#how-to-join-as-a-contributor))
-2. Create a [transfer project in issue in the django-commons/membership repository](https://github.com/django-commons/membership/issues/new/choose).
-
-## How to transfer a project out?
-
-1. Create a [transfer project out issue in the django-commons/membership repository](https://github.com/django-commons/membership/issues/new/choose).
-
-## FAQ
-
+- [How to join as a contributor?](https://github.com/django-commons/membership/blob/main/README.md#how-to-join-as-a-contributor)
+- [How to transfer a project in?](https://github.com/django-commons/membership/blob/main/README.md#how-to-transfer-a-project-in)
+- [How to transfer a project out?](https://github.com/django-commons/membership/blob/main/README.md#how-to-transfer-a-project-out)
+- [FAQ](https://github.com/django-commons/membership/blob/main/README.md#faq)
 
 ## Credits
 
