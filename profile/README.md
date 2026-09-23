@@ -20,7 +20,8 @@ possible with your help:
 - [How to join as a contributor?](https://github.com/django-commons/membership/blob/main/README.md#how-to-join-as-a-contributor)
 - [How to transfer a project in?](https://github.com/django-commons/membership/blob/main/README.md#how-to-transfer-a-project-in)
 - [How to transfer a project out?](https://github.com/django-commons/membership/blob/main/README.md#how-to-transfer-a-project-out)
-- [Code of Conduct](https://github.com/django-commons/membership/blob/main/CODE_OF_CONDUCT.md)
+- [Code of Conduct](https://github.com/django-commons/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/django-commons/.github/blob/main/SECURITY.md)
 - [FAQ](https://github.com/django-commons/membership/blob/main/README.md#faq)
 - [Documentation site](https://django-commons.org)
 
