@@ -18,7 +18,7 @@ a project to fix an issue if the maintainers can't be reached.
 ## Reporting Guidelines
 
 These guidelines are taken from [Django's security
-policy](https://docs.djangoproject.com/en/dev/internals/security/).
+policy](https://docs.djangoproject.com/en/dev/internals/security/) and [Python's security policy](https://devguide.python.org/security/policy/).
 
 Your initial report should give the maintainers enough to make a triage
 decision, no more. It should include:
